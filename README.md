@@ -1,16 +1,16 @@
 # LangGraph ReAct Agent Template
 
-[![Version](https://img.shields.io/badge/version-v0.2.0-blue.svg)](https://github.com/webup/langgraph-up-react)
+[![Version](https://img.shields.io/badge/version-v0.2.0-blue.svg)](https://github.com/ryan00x/langgraph-up-react)
 [![LangGraph](https://img.shields.io/badge/LangGraph-v0.6.6-blue.svg)](https://github.com/langchain-ai/langgraph)
-[![Build](https://github.com/webup/langgraph-up-react/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/webup/langgraph-up-react/actions/workflows/unit-tests.yml)
+[![Build](https://github.com/ryan00x/langgraph-up-react/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/ryan00x/langgraph-up-react/actions/workflows/unit-tests.yml)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![README CN](https://img.shields.io/badge/README-中文-red.svg)](./README_CN.md)
-[![DeepWiki](https://img.shields.io/badge/Powered_by-DeepWiki-blue.svg)](https://deepwiki.com/webup/langgraph-up-react)
+[![DeepWiki](https://img.shields.io/badge/Powered_by-DeepWiki-blue.svg)](https://deepwiki.com/ryan00x/langgraph-up-react)
 [![Twitter](https://img.shields.io/twitter/follow/zhanghaili0610?style=social)](https://twitter.com/zhanghaili0610)
 
 This template showcases a [ReAct agent](https://arxiv.org/abs/2210.03629) implemented using [LangGraph](https://github.com/langchain-ai/langgraph), works seamlessly with [LangGraph Studio](https://docs.langchain.com/langgraph-platform/quick-start-studio#use-langgraph-studio). ReAct agents are uncomplicated, prototypical agents that can be flexibly extended to many tools.
 
-**🎉 Latest v0.2.0 Release**: Complete evaluation system and multi-model support! Check the [release notes](https://github.com/webup/langgraph-up-react/releases) for all new features.
+**🎉 Latest v0.2.0 Release**: Complete evaluation system and multi-model support! Check the [release notes](https://github.com/ryan00x/langgraph-up-react/releases) for all new features.
 
 ![Graph view in LangGraph studio UI](./static/studio_ui.png)
 
@@ -82,7 +82,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 2. Clone the repository:
 ```bash
-git clone https://github.com/webup/langgraph-up-react.git
+git clone https://github.com/ryan00x/langgraph-up-react.git
 cd langgraph-up-react
 ```
 
@@ -439,7 +439,7 @@ make eval_graph       # Graph trajectory evaluation (runs independently)
 make eval_multiturn   # Multi-turn chat evaluation (requires server)
 
 # View release notes and version information
-# Visit GitHub Releases page for all version release notes: https://github.com/webup/langgraph-up-react/releases
+# Visit GitHub Releases page for all version release notes: https://github.com/ryan00x/langgraph-up-react/releases
 ```
 
 ### Evaluation System Features
@@ -456,7 +456,7 @@ For detailed evaluation documentation, see: [`tests/evaluations/README.md`](./te
 
 ### Roadmap & Contributing
 - 📋 **[ROADMAP.md](./ROADMAP.md)** - Current milestones and future plans
-- 🐛 **Issues & PRs Welcome** - Help us improve by [raising issues](https://github.com/webup/langgraph-up-react/issues) or submitting pull requests
+- 🐛 **Issues & PRs Welcome** - Help us improve by [raising issues](https://github.com/ryan00x/langgraph-up-react/issues) or submitting pull requests
 - 🤖 **Built with Claude Code** - This template is actively developed using [Claude Code](https://claude.ai/code)
 
 ### Getting Involved
@@ -494,6 +494,6 @@ This project is built on the shoulders of amazing open-source projects and servi
 - **SiliconFlow** - Chinese MaaS platform providing open-source models
 - **Alibaba Cloud Bailian (DashScope)** - Qwen series model service platform
 
-View all version updates: [📋 GitHub Releases](https://github.com/webup/langgraph-up-react/releases)
+View all version updates: [📋 GitHub Releases](https://github.com/ryan00x/langgraph-up-react/releases)
 
 Thank you to all contributors and the open-source community! 🙏
